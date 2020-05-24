@@ -13,7 +13,7 @@ namespace TestApp
         // GET: /<controller>/
         public IActionResult Index()
         {
-            //Hello Comment
+            //Hello Comments
             return View();
         }
     }
